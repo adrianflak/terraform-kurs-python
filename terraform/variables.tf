@@ -1,11 +1,11 @@
 variable "resource_group" {
   description = "The resource group"
-  default = "python_grupka_zasobow"
+  default = "pythongrupkazasobow"
 }
 
 variable "application_name" {
   description = "The Spring Boot application name"
-  default     = "aplikacja_python_terraform_alamakota"
+  default     = "aplikacjapythonterraformalamakota"
 }
 
 variable "location" {
